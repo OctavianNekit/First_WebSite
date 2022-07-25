@@ -1,2 +1,3 @@
-# First_WebSite
-My first website on HTML/CSS
+# Мой первый веб-сайт, созданный с помощью HTML/CSS, а также BootStrap
+
+## Сайт представляет собой книжный интернет-магазин
